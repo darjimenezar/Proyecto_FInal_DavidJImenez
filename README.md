@@ -1,6 +1,7 @@
 # Proyecto_FInal_DavidJImenez
 
 
+<img src="Word Art.png.png">
 
 # Descripción y Motivación
 
