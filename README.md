@@ -1,7 +1,7 @@
 # Proyecto_FInal_DavidJImenez
 
 
-<img src="Talleres/proyecto final/Word Art.png">
+<img src="proyecto final/Word Art.png">
 
 # Descripción y Motivación
 
